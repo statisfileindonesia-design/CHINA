@@ -2,15 +2,21 @@
   "schema": "2.0",
   "encrypted": true,
   "genre": "CHINA",
-  "total": 1,
+  "total": 2,
   "data": [
     {
       "NAMAE": "QUBAUUMZXVRWUUk=",
       "COVER": "WkFEREIDFhpbWFFTVEoLG1tYV1ZeQRdWXVgfDFAWWAEdW3MEQ3pPX3dqXxpbSV4=",
       "SINOPSIS": "WkFEREIDFhpbWFFTVEoLG1tYV1ZeQRdWXVgfDQUWAFMdZUoBAXYNYnVqXxpbSV4=",
       "LINK": "AwECAgYODgYCBwgNCAw="
+    },
+    {
+      "NAMAE": "YV1RW11QVxViWkBRSBkK",
+      "COVER": "WkFEREIDFhpGXUVZU0oLG1tYV1ZeQRdWXVgfBgMWWwMddFJeeVxIcgdqRBpBV14=",
+      "SINOPSIS": "WkFEREIDFhpbWFFTVEoLG1tYV1ZeQRdWXVgfB1UWCQcdWFgEY3dPAGZqXxpBV14=",
+      "LINK": "AwEHAAcKDAcKBAQDAwo="
     }
   ],
-  "lastSync": "2026-05-11T02:19:45.587Z",
+  "lastSync": "2026-05-11T17:25:58.468Z",
   "note": ""
 }
