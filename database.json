@@ -2,7 +2,7 @@
   "schema": "2.0",
   "encrypted": true,
   "genre": "CHINA",
-  "total": 3,
+  "total": 8,
   "data": [
     {
       "NAMAE": "QUBAUUMZXVRWUUk=",
@@ -21,8 +21,38 @@
       "COVER": "WkFEREIDFhpbWFFTVEoLG1tYV1ZeQRdWXVgfAlcWXAQdBHhBQ31QRVRqXxpbSV4=",
       "SINOPSIS": "WkFEREIDFhpbWFFTVEoLG1tYV1ZeQRdWXVgfAAEWDVcdWgdmXVJWXQVqXxpbSV4=",
       "LINK": "AwEHBwgACwwDBQcEBgw="
+    },
+    {
+      "NAMAE": "c1tVV1VWTVBBFX9SEXhJUBJ4X0FfTVhcXA==",
+      "COVER": "WkFEREIDFhpbWFFTVEoLG1tYV1ZeQRdWXVgfBQkWWgMdb3pmYlZvX2tqXxpbSV4=",
+      "SINOPSIS": "WkFEREIDFhpbWFFTVEoLG1tYV1ZeQRdWXVgfBQEWDFcdT0ZfQHFvcXtqXxpbSV4=",
+      "LINK": "AwEBAwQKAAUAAgIFAgg="
+    },
+    {
+      "NAMAE": "dUdVUV8ZaltTXlUUZVFcFX1HWVNYVw==",
+      "COVER": "WkFEREIDFhpbWFFTVEoLG1tYV1ZeQRdWXVgfV1cWDAcdYAN4WWxwcGFqXxpbSV4=",
+      "SINOPSIS": "WkFEREIDFhpbWFFTVEoLG1tYV1ZeQRdWXVgfBAEWWFMdB15SCE1dVgNqXxpbSV4=",
+      "LINK": "AwEBAwYJDgYKDAENBgg="
+    },
+    {
+      "NAMAE": "Zl1VFGNcWFkSeF9aWlxAFXlcXlMRe0xTU0ZYVV8=",
+      "COVER": "WkFEREIDFhpbWFFTVEoLG1tYV1ZeQRdWXVgfDAEWCVEdAnRAcHteQERqXxpbSV4=",
+      "SINOPSIS": "WkFEREIDFhpbWFFTVEoLG1tYV1ZeQRdWXVgfVwUWWwUdRFZgYXBzfXRqXxpbSV4=",
+      "LINK": "AwEBAwYMCwEKAQUFCQ4="
+    },
+    {
+      "NAMAE": "AwUAFGhYS1FB",
+      "COVER": "WkFEREIDFhpbWFFTVEoLG1tYV1ZeQRdWXVgfDAEWDg0db2ByZHEOUmRqXxpbSV4=",
+      "SINOPSIS": "WkFEREIDFhpbWFFTVEoLG1tYV1ZeQRdWXVgfB1AWWwMdcmdQc0x2XQVqXxpbSV4=",
+      "LINK": "AwECAgQIDgcGBwkABQo="
+    },
+    {
+      "NAMAE": "dlBdW18ZalBTWVVGEXtMR1dURQ==",
+      "COVER": "WkFEREIDFhpbWFFTVEoLG1tYV1ZeQRdWXVgfBgcWDFQdBANTc3RuDHVqXxpbSV4=",
+      "SINOPSIS": "WkFEREIDFhpbWFFTVEoLG1tYV1ZeQRdWXVgfBVcWAAAdUncGf1EOZXZqXxpbSV4=",
+      "LINK": "AwECAggACgwAAAUNAgA="
     }
   ],
-  "lastSync": "2026-06-17T16:25:28.522Z",
+  "lastSync": "2026-06-18T16:57:26.942Z",
   "note": ""
 }
